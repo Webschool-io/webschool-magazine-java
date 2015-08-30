@@ -1,2 +1,2 @@
 # webschool-magazine-java
-A revista dedicada ao PHP.
+A revista dedicada ao Java.
